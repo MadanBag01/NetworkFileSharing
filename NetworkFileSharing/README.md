@@ -100,15 +100,3 @@ This project is open-source and available under the MIT License
 .
 
 
----
-
-### ✅ Steps to Apply:
-1. Open VS Code  
-2. Open your project folder → double-click `README.md`  
-3. Paste the above content  
-4. Press `Ctrl + S` to save  
-5. Then push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Added README documentation"
-   git push
